@@ -18,4 +18,5 @@ return [
     'deleted' => 'Producto eliminado.',
     'cancel' => 'Cancelar',
     'save' => 'Guardar',
+    '' => 'Buscar productos',
 ];
